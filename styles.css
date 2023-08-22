@@ -1,19 +1,19 @@
 @import url(styles/header.css);
 
 :root{
-    --cor-de-fundo:#ffffff;
+    --cor-de-fundo:#0e7de6;
 
 
 
 }
 
 body{
-    background-color: #000000;
+    background-color: #7802d8;
 
 }
 
 h1{
-background-color: #ffffff;
+background-color: #000000;
 
 
 
