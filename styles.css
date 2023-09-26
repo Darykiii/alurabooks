@@ -2,13 +2,23 @@
 
 :root{
     --cor-de-fundo:#0e7de6;
+    
 
 
 
+
+
+    
+
+    background: linear-gradient(97.54deg, #0O2F52 35.49%, #326589 165.37%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparente;
+    background-clip:text;
+    text-transform: uppercase;
 }
 
 body{
-    background-color: #7802d8;
+    background-color: #ffffff;
 
 }
 
